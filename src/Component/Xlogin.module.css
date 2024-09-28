@@ -1,0 +1,6 @@
+.labelCont {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  gap: 10px;
+}
