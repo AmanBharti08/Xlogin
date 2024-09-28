@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xlogin/static/css/main.9fc65ffa.css",
+    "main.js": "/Xlogin/static/js/main.34dbca34.js",
+    "static/js/453.0fbedc2a.chunk.js": "/Xlogin/static/js/453.0fbedc2a.chunk.js",
+    "index.html": "/Xlogin/index.html",
+    "main.9fc65ffa.css.map": "/Xlogin/static/css/main.9fc65ffa.css.map",
+    "main.34dbca34.js.map": "/Xlogin/static/js/main.34dbca34.js.map",
+    "453.0fbedc2a.chunk.js.map": "/Xlogin/static/js/453.0fbedc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc65ffa.css",
+    "static/js/main.34dbca34.js"
+  ]
+}
